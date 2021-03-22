@@ -6,7 +6,7 @@
 
 >A “Imersão Dev”, uma série de dez aulas focadas em JavaScript na prática, HTML e CSS, oferecidas pela plataforma online de ensino de tecnologia Alura. Os alunos aprenderão a criar seus primeiros códigos e, ao fim das aulas, terão a possibilidade de iniciar uma carreira em programação.`
 
-#### AULA : CONVERSOR DE MOEDAS E VARIÁVEIS NO JAVASCRIPT
+#### AULA 1: CONVERSOR DE MOEDAS E VARIÁVEIS NO JAVASCRIPT
 Nesta primeira aula da Imersão Dev, vamos criar um conversor de moedas, que converte dolar em real! O código da aula inicial para você acompanhar está aqui:
 
 ````
@@ -33,18 +33,18 @@ Não se esqueça de fazer o fork desse projeto para a sua conta, e de marcar a h
 
 #### Links importantes para você acompanhar a aula
 - <a href="https://codepen.io/" target="_blank" rel="noopener">Codepen - editor de código online</a>
-- HTML, CSS e JavaScript, quais as diferenças
-- Repositório do código final da aula 1
+- <a href="https://www.alura.com.br/artigos/html-css-e-js-definicoes">HTML, CSS e JavaScript, quais as diferenças</a>
+- <a href="https://github.com/alura-challenges/aluraquiz-base/tree/v1" target="_blank" rel="noopener">Repositório do código final da aula 1</a>
 
 #### Links citados nessa aula
-- Mais sobre variáveis
-- Mais sobre a função parseFloat
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat" target="_blank" rel="noopener">Mais sobre a função parseFloat</a>
 
 #### Conteúdos extras:
-- JavaScript segundo a documentação
-- Primeiros passos na programação
-- O que é Javascript?
-- 5 minutos de HTML
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">JavaScript segundo a documentação</a>
+- <a href="https://hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/">Primeiros passos na programação</a>
+- <a href="https://www.youtube.com/watch?v=NaVSbnnV75Q" target="_blank" rel="noopener">O que é Javascript?</a>
+- <a href="https://www.youtube.com/watch?v=3oSIqIqzN3M" target="_blank" rel="noopener">5 minutos de HTML</a>
 
 #### Como compartilhar seu CodePen:
 - Clique na opção Settings no canto superior direito;
