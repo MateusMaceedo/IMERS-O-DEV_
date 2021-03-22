@@ -6,12 +6,11 @@
 
 >A “Imersão Dev”, uma série de dez aulas focadas em JavaScript na prática, HTML e CSS, oferecidas pela plataforma online de ensino de tecnologia Alura. Os alunos aprenderão a criar seus primeiros códigos e, ao fim das aulas, terão a possibilidade de iniciar uma carreira em programação.`
 
-#### AULA 1: CONVERSOR DE MOEDAS E VARIÁVEIS NO JAVASCRIPT
+#### AULA 1: CONVERSOR DE MOEDAS E VARIÁVEIS NO JAVASCRIPT - :heavy_check_mark:
 Nesta primeira aula da Imersão Dev, vamos criar um conversor de moedas, que converte dolar em real! O código da aula inicial para você acompanhar está aqui:
 
 ````
 https://codepen.io/imersao-dev/pen/ExNLJeZ
-
 ````
 
 Não se esqueça de fazer o fork desse projeto para a sua conta, e de marcar a hashtag da #imersaodev e #alura.
