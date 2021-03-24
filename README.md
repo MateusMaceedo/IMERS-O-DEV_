@@ -41,12 +41,16 @@ Não se esqueça de fazer o fork desse projeto para a sua conta, e de marcar a h
 #### Links citados nessa aula
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat" target="_blank" rel="noopener">Mais sobre a função parseFloat</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
+- <a href="https://pt.stackoverflow.com/questions/7/qual-a-diferen%C3%A7a-entre-os-operadores-e-em-javascript" target="_blank" rel="noopener">Um igual, dois iguais e três iguais? QUE???</a>
+-
 
 #### Conteúdos extras:
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">JavaScript segundo a documentação</a>
 - <a href="https://hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/">Primeiros passos na programação</a>
 - <a href="https://www.youtube.com/watch?v=NaVSbnnV75Q" target="_blank" rel="noopener">O que é Javascript?</a>
 - <a href="https://www.youtube.com/watch?v=3oSIqIqzN3M" target="_blank" rel="noopener">5 minutos de HTML</a>
+- <a href="https://www.youtube.com/watch?v=Bmw_6oOvO3s" target="_blank" rel="noopener">Evolução do Javascript</a>
 
 #### Como compartilhar seu CodePen:
 - Clique na opção Settings no canto superior direito;
