@@ -34,9 +34,9 @@ Não se esqueça de fazer o fork desse projeto para a sua conta, e de marcar a h
 - <a href="https://codepen.io/" target="_blank" rel="noopener">Codepen - editor de código online</a>
 - <a href="https://www.alura.com.br/artigos/html-css-e-js-definicoes">HTML, CSS e JavaScript, quais as diferenças</a>
 - <a href="https://github.com/alura-challenges/aluraquiz-base/tree/v1" target="_blank" rel="noopener">Repositório do código final da aula 1</a>
-<a href="https://codepen.io/" target="_blank" rel="noopener">Codepen - editor de código online</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators" target="_blank" rel="noopener">Operadores boleanos</a>
-<a href="https://codepen.io/imersao-dev/pen/abdbd83b0cca06d82189ce304a851eea" target="_blank" rel="noopener">Repositório do código final da aula 1</a>
+- <a href="https://codepen.io/" target="_blank" rel="noopener">Codepen - editor de código online</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators" target="_blank" rel="noopener">Operadores boleanos</a>
+- <a href="https://codepen.io/imersao-dev/pen/abdbd83b0cca06d82189ce304a851eea" target="_blank" rel="noopener">Repositório do código final da aula 1</a>
 
 #### Links citados nessa aula
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
