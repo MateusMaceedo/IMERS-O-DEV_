@@ -30,10 +30,13 @@ Não se esqueça de fazer o fork desse projeto para a sua conta, e de marcar a h
 - Criar um programa que converta libra em dolar, ou graus Celsius para Fahrenheit;
 - Exibir o resultado da conversão na tela, no lugar da função alert.
 
-#### Links importantes para você acompanhar a aula
+#### Links importantes para você acompanhar as aulas
 - <a href="https://codepen.io/" target="_blank" rel="noopener">Codepen - editor de código online</a>
 - <a href="https://www.alura.com.br/artigos/html-css-e-js-definicoes">HTML, CSS e JavaScript, quais as diferenças</a>
 - <a href="https://github.com/alura-challenges/aluraquiz-base/tree/v1" target="_blank" rel="noopener">Repositório do código final da aula 1</a>
+<a href="https://codepen.io/" target="_blank" rel="noopener">Codepen - editor de código online</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators" target="_blank" rel="noopener">Operadores boleanos</a>
+<a href="https://codepen.io/imersao-dev/pen/abdbd83b0cca06d82189ce304a851eea" target="_blank" rel="noopener">Repositório do código final da aula 1</a>
 
 #### Links citados nessa aula
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
@@ -52,3 +55,16 @@ Não se esqueça de fazer o fork desse projeto para a sua conta, e de marcar a h
 - No campo Pen Description, você pode dar detalhes sobre o projeto (o que ele faz, qual objetivo do projeto);
 - Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura
 - Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!
+
+#### AULA 1: CALCULADORA E LAÇOS CONDICIONAIS NO JAVASCRIPT
+
+#### Conteúdo detalhado dessa aula
+- Interagir com usuário para receber os valores que serão calculados;
+- Criar a lógica para saber qual operação será executada;
+- Comparar o valor da operação escolhida para descobrir qual função será realizada;
+- Exibir uma mensagem de erro, caso a operação escolhida seja inválida;
+- Exibindo os valores escolhidos e o resultado da operação com document.write;
+
+#### Desafios dessa aula!
+- Exibir um pokemon na tela e pedir para o usuario escrever o nome desse pokemon.
+- Exibir se acertou ou errou o nome.
