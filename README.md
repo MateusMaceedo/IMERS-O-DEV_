@@ -56,7 +56,7 @@ Não se esqueça de fazer o fork desse projeto para a sua conta, e de marcar a h
 - Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura
 - Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!
 
-#### AULA 1: CALCULADORA E LAÇOS CONDICIONAIS NO JAVASCRIPT - :heavy_check_mark:
+#### AULA 2: CALCULADORA E LAÇOS CONDICIONAIS NO JAVASCRIPT - :heavy_check_mark:
 
 #### Conteúdo detalhado dessa aula
 - Interagir com usuário para receber os valores que serão calculados;
