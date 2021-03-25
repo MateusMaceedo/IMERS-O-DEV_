@@ -42,9 +42,9 @@
 Nesta primeira aula da Imersão Dev, vamos criar um conversor de moedas, que converte dolar em real! O código da aula inicial para você acompanhar está aqui:
 
 ````
-https://codepen.io/imersao-dev/pen/ExNLJeZ
-https://codepen.io/imersao-dev/pen/fe7e8d7e1820a0883499c1b85d0ef8f3
-https://codepen.io/imersao-dev/pen/c9bc2321ec180ad7483501ad8a1e7d3d
+1° Aula: https://codepen.io/imersao-dev/pen/ExNLJeZ
+2° Aula: https://codepen.io/imersao-dev/pen/fe7e8d7e1820a0883499c1b85d0ef8f3
+3° Aula: https://codepen.io/imersao-dev/pen/c9bc2321ec180ad7483501ad8a1e7d3d
 ````
 
 Não se esqueça de fazer o fork desse projeto para a sua conta, e de marcar a hashtag da #imersaodev e #alura.
