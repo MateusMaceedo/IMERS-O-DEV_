@@ -98,6 +98,16 @@ O comando break pode ser substituído para que o código saia do while sem ele. 
 
 #### AULA 4: ALURAFLIX - :heavy_check_mark:
 
+Nesta aula vamos ver a primeira delas, array, um tipo de lista de elementos, assim como algumas ferramentas para alterarmos e trabalharmos com estas listas. Depois de criarmos uma lista, vamos exibir os pôsters de todos os nossos filmes preferidos na tela do navegador. Durante esta aula, usaremos o código abaixo:
+
+````
+function listarFilmesNaTela(filme) {
+  var listaFilmes = document.querySelector('#listaFilmes')
+  var elementoFilme = "<img src=" + filme + ">"
+  listaFilmes.innerHTML = listaFilmes.innerHTML + elementoFilme
+}
+````
+
 #### Conteúdo detalhado dessa aula
 - Criar uma primeira array de filmes usando a sintaxe [];
 - Utilizar o método filmes.push("Nome Do Filme") para inserir um novo elemento na lista (ou seja, um novo filme na array);
