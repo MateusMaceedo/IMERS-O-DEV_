@@ -13,13 +13,16 @@
 - <a href="https://codepen.io/" target="_blank" rel="noopener">Codepen - editor de código online</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators" target="_blank" rel="noopener">Operadores boleanos</a>
 - <a href="https://codepen.io/imersao-dev/pen/abdbd83b0cca06d82189ce304a851eea" target="_blank" rel="noopener">Repositório do código final da aula 1</a>
+<a href="https://codepen.io/imersao-dev/pen/51db666e8bab142fd0e4f48e535581c7" target="_blank" rel="noopener">Codepen com o código inicial</a>
+<a href="https://www.imdb.com/" target="_blank" rel="noopener">IMDb para pesquisar as imagens dos filmes</a>
+
 
 #### Links citados nas aulas
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat" target="_blank" rel="noopener">Mais sobre a função parseFloat</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
 - <a href="https://pt.stackoverflow.com/questions/7/qual-a-diferen%C3%A7a-entre-os-operadores-e-em-javascript" target="_blank" rel="noopener">Um igual, dois iguais e três iguais? QUE???</a>
-
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array" target="_blank" rel="noopener">Documentação da MDN sobre arrays</a>
 
 #### Conteúdos extras:
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">JavaScript segundo a documentação</a>
@@ -45,6 +48,7 @@ Nesta primeira aula da Imersão Dev, vamos criar um conversor de moedas, que con
 1° Aula: https://codepen.io/imersao-dev/pen/ExNLJeZ
 2° Aula: https://codepen.io/imersao-dev/pen/fe7e8d7e1820a0883499c1b85d0ef8f3
 3° Aula: https://codepen.io/imersao-dev/pen/c9bc2321ec180ad7483501ad8a1e7d3d
+4° Aula: https://codepen.io/imersao-dev/pen/XWpWrYm
 ````
 
 Não se esqueça de fazer o fork desse projeto para a sua conta, e de marcar a hashtag da #imersaodev e #alura.
@@ -91,3 +95,19 @@ Não se esqueça de fazer o fork desse projeto para a sua conta, e de marcar a h
 - Modifique o cenário do mentalista e adicione mecanismos de chances, pontos e etc!
 O comando break pode ser substituído para que o código saia do while sem ele. Você consegue pensar em uma alternativa?
 - Alterar o math.random() para funcionar com outros intervalos entre números.
+
+#### AULA 4: ALURAFLIX - :heavy_check_mark:
+
+#### Conteúdo detalhado dessa aula
+- Criar uma primeira array de filmes usando a sintaxe [];
+- Utilizar o método filmes.push("Nome Do Filme") para inserir um novo elemento na lista (ou seja, um novo filme na array);
+- Descobrir a quantidade de elementos em uma array com o método array.length;
+- Selecionar elementos de uma array utilizando a sintaxe array[número], lembrando sempre que o primeiro índice começa com zero, ou seja, array[0] para o primeiro elemento;
+- Utilizar a instrução for para iterar, ou seja, percorrer todos os elementos de uma array;
+- Criar uma array com imagens de pôsters de alguns filmes que gostamos;
+-Montar a lógica do programa que vai iterar esta array de filmes e exibir cada um deles na tela, integrando o for do JavaScript com a tag <img> do HTML.
+
+#### Desafios dessa aula!
+- Criar uma array adicional com o nome dos filmes e trabalhar com as duas ao mesmo tempo, unindo imagens e textos através dos índices;
+- Exibir um prompt() com uma lista de filmes e exibir na tela somente o filme escolhido pelo usuário através do prompt;
+- Continuando o desafio acima, como fazer com que um filme só seja exibido uma vez?
