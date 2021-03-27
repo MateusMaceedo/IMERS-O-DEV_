@@ -15,6 +15,7 @@
 - <a href="https://codepen.io/imersao-dev/pen/abdbd83b0cca06d82189ce304a851eea" target="_blank" rel="noopener">Repositório do código final da aula 1</a>
 <a href="https://codepen.io/imersao-dev/pen/51db666e8bab142fd0e4f48e535581c7" target="_blank" rel="noopener">Codepen com o código inicial</a>
 <a href="https://www.imdb.com/" target="_blank" rel="noopener">IMDb para pesquisar as imagens dos filmes</a>
+<a href="https://codepen.io/imersao-dev/pen/BapaBPO" target="_blank" rel="noopener">Repositório do código final da aula 4</a>
 
 
 #### Links citados nas aulas
@@ -32,6 +33,9 @@
 - <a href="https://www.youtube.com/watch?v=Bmw_6oOvO3s" target="_blank" rel="noopener">Evolução do Javascript</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/while" target="_blank" rel="noopener">while no MDN</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/random" target="_blank" rel="noopener">Math.random() no MDN</a>
+- <li>Iterações são parte importante do estudo de lógica de programação e nem sempre a gente pega de primeira. Por isso, produzimos um <a href="https://www.youtube.com/watch?v=c8Zac9hWbs8" target="_blank" rel="noopener">vídeo extra</a> para você dar um gás nesse tema e tirar suas dúvidas. Ou ter dúvidas novas, o que também é bom!</li>
+<a href="https://www.youtube.com/watch?v=DsFb24TgJ0c" target="_blank" rel="noopener">Refazendo a aula 1 com outra linguagem de programação</a>
+<a href="https://www.youtube.com/watch?v=xvkuNF_8Coc" target="_blank" rel="noopener">Como abrir um programa do CodePen no VSCode</a>
 
 #### Como compartilhar seu CodePen:
 - Clique na opção Settings no canto superior direito;
@@ -49,6 +53,7 @@ Nesta primeira aula da Imersão Dev, vamos criar um conversor de moedas, que con
 2° Aula: https://codepen.io/imersao-dev/pen/fe7e8d7e1820a0883499c1b85d0ef8f3
 3° Aula: https://codepen.io/imersao-dev/pen/c9bc2321ec180ad7483501ad8a1e7d3d
 4° Aula: https://codepen.io/imersao-dev/pen/XWpWrYm
+5° Aula:  https://codepen.io/imersao-dev/pen/XWpWrod
 ````
 
 Não se esqueça de fazer o fork desse projeto para a sua conta, e de marcar a hashtag da #imersaodev e #alura.
@@ -121,3 +126,19 @@ function listarFilmesNaTela(filme) {
 - Criar uma array adicional com o nome dos filmes e trabalhar com as duas ao mesmo tempo, unindo imagens e textos através dos índices;
 - Exibir um prompt() com uma lista de filmes e exibir na tela somente o filme escolhido pelo usuário através do prompt;
 - Continuando o desafio acima, como fazer com que um filme só seja exibido uma vez?
+
+#### AULA 5: REFATORANDO O ALURAFLIX COM FUNÇÕES - :heavy_check_mark:
+
+#### Conteúdo detalhado dessa aula
+- Sintaxe e criação de funções no JavaScript;
+- Integrando funções criadas no JavaScript com o HTML que está sendo exibido na tela;
+- Condicionando a execução (ou "chamada") de uma função a um clique em um botão na tela;
+- Usando o JavaScript para acessar o que está sendo exibido na tela e pegar valores digitados pelo usuário com querySelector() e .value;
+- Passar informações que as funções precisam para funcionar, através dos parâmetros;
+- Utilizar o .endsWith() para verificar se um texto termina com determinados caracteres;
+- Ver mais um exemplo de reatribuição de variável para "limpar" o texto do campo com "".
+
+#### Desafios dessa aula!
+-Substituir o pôster de cada filme pelo trailer. Dica: pesquisem pela opção embed no menu de compartilhamento do YouTube;
+- Estudar o innerHTML e a função que está criando a lista de pôsters. Como o código funciona para adicionar filmes sem utilizar array?
+- Criar a função validaFilme() que faça somente a verificação que está sendo feita no if.
