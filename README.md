@@ -120,7 +120,7 @@ function listarFilmesNaTela(filme) {
 - Selecionar elementos de uma array utilizando a sintaxe array[número], lembrando sempre que o primeiro índice começa com zero, ou seja, array[0] para o primeiro elemento;
 - Utilizar a instrução for para iterar, ou seja, percorrer todos os elementos de uma array;
 - Criar uma array com imagens de pôsters de alguns filmes que gostamos;
--Montar a lógica do programa que vai iterar esta array de filmes e exibir cada um deles na tela, integrando o for do JavaScript com a tag <img> do HTML.
+- Montar a lógica do programa que vai iterar esta array de filmes e exibir cada um deles na tela, integrando o for do JavaScript com a tag <img> do HTML.
 
 #### Desafios dessa aula!
 - Criar uma array adicional com o nome dos filmes e trabalhar com as duas ao mesmo tempo, unindo imagens e textos através dos índices;
@@ -139,6 +139,6 @@ function listarFilmesNaTela(filme) {
 - Ver mais um exemplo de reatribuição de variável para "limpar" o texto do campo com "".
 
 #### Desafios dessa aula!
--Substituir o pôster de cada filme pelo trailer. Dica: pesquisem pela opção embed no menu de compartilhamento do YouTube;
+- Substituir o pôster de cada filme pelo trailer. Dica: pesquisem pela opção embed no menu de compartilhamento do YouTube;
 - Estudar o innerHTML e a função que está criando a lista de pôsters. Como o código funciona para adicionar filmes sem utilizar array?
 - Criar a função validaFilme() que faça somente a verificação que está sendo feita no if.
