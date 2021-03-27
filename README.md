@@ -1,3 +1,4 @@
+<link href="styles/style.css" rel="stylesheet"></link>
 <img src="https://www.alura.com.br/assets/img/home/alura-logo.1570550707.svg" width="95" height="45">
 
 #### IMERSÃO DEV_
