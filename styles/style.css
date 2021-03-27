@@ -5,7 +5,7 @@ abbr,acronym,blockquote,code,dir,kbd,listing,plaintext,q,samp,tt,var,xmp { hyphe
 html {
   padding: 2em;
 
-	font: normal 18px/1.25 Source Sans Pro, sans-serif;
+	font: normal 18px/1.25 Source Sans Pro, fira-code;
 	color: #000;
 	hyphens: auto;
 	word-wrap: break-word;
