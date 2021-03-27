@@ -13,9 +13,9 @@
 - <a href="https://codepen.io/" target="_blank" rel="noopener">Codepen - editor de código online</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators" target="_blank" rel="noopener">Operadores boleanos</a>
 - <a href="https://codepen.io/imersao-dev/pen/abdbd83b0cca06d82189ce304a851eea" target="_blank" rel="noopener">Repositório do código final da aula 1</a>
-<a href="https://codepen.io/imersao-dev/pen/51db666e8bab142fd0e4f48e535581c7" target="_blank" rel="noopener">Codepen com o código inicial</a>
-<a href="https://www.imdb.com/" target="_blank" rel="noopener">IMDb para pesquisar as imagens dos filmes</a>
-<a href="https://codepen.io/imersao-dev/pen/BapaBPO" target="_blank" rel="noopener">Repositório do código final da aula 4</a>
+- <a href="https://codepen.io/imersao-dev/pen/51db666e8bab142fd0e4f48e535581c7" target="_blank" rel="noopener">Codepen com o código inicial</a>
+- <a href="https://www.imdb.com/" target="_blank" rel="noopener">IMDb para pesquisar as imagens dos filmes</a>
+- <a href="https://codepen.io/imersao-dev/pen/BapaBPO" target="_blank" rel="noopener">Repositório do código final da aula 4</a>
 
 
 #### Links citados nas aulas
@@ -23,7 +23,7 @@
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat" target="_blank" rel="noopener">Mais sobre a função parseFloat</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
 - <a href="https://pt.stackoverflow.com/questions/7/qual-a-diferen%C3%A7a-entre-os-operadores-e-em-javascript" target="_blank" rel="noopener">Um igual, dois iguais e três iguais? QUE???</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array" target="_blank" rel="noopener">Documentação da MDN sobre arrays</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array" target="_blank" rel="noopener">Documentação da MDN sobre arrays</a>
 
 #### Conteúdos extras:
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">JavaScript segundo a documentação</a>
@@ -34,8 +34,8 @@
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/while" target="_blank" rel="noopener">while no MDN</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/random" target="_blank" rel="noopener">Math.random() no MDN</a>
 - <li>Iterações são parte importante do estudo de lógica de programação e nem sempre a gente pega de primeira. Por isso, produzimos um <a href="https://www.youtube.com/watch?v=c8Zac9hWbs8" target="_blank" rel="noopener">vídeo extra</a> para você dar um gás nesse tema e tirar suas dúvidas. Ou ter dúvidas novas, o que também é bom!</li>
-<a href="https://www.youtube.com/watch?v=DsFb24TgJ0c" target="_blank" rel="noopener">Refazendo a aula 1 com outra linguagem de programação</a>
-<a href="https://www.youtube.com/watch?v=xvkuNF_8Coc" target="_blank" rel="noopener">Como abrir um programa do CodePen no VSCode</a>
+- <a href="https://www.youtube.com/watch?v=DsFb24TgJ0c" target="_blank" rel="noopener">Refazendo a aula 1 com outra linguagem de programação</a>
+- <a href="https://www.youtube.com/watch?v=xvkuNF_8Coc" target="_blank" rel="noopener">Como abrir um programa do CodePen no VSCode</a>
 
 #### Como compartilhar seu CodePen:
 - Clique na opção Settings no canto superior direito;
