@@ -33,7 +33,7 @@
 - <a href="https://www.youtube.com/watch?v=Bmw_6oOvO3s" target="_blank" rel="noopener">Evolução do Javascript</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/while" target="_blank" rel="noopener">while no MDN</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/random" target="_blank" rel="noopener">Math.random() no MDN</a>
-<li>Iterações são parte importante do estudo de lógica de programação e nem sempre a gente pega de primeira. Por isso, produzimos um <a href="https://www.youtube.com/watch?v=c8Zac9hWbs8" target="_blank" rel="noopener">vídeo extra</a> para você dar um gás nesse tema e tirar suas dúvidas. Ou ter dúvidas novas, o que também é bom!</li>
+- <a>Iterações são parte importante do estudo de lógica de programação e nem sempre a gente pega de primeira. Por isso, produzimos um <a href="https://www.youtube.com/watch?v=c8Zac9hWbs8" target="_blank" rel="noopener">vídeo extra</a> para você dar um gás nesse tema e tirar suas dúvidas. Ou ter dúvidas novas, o que também é bom!</a>
 - <a href="https://www.youtube.com/watch?v=DsFb24TgJ0c" target="_blank" rel="noopener">Refazendo a aula 1 com outra linguagem de programação</a>
 - <a href="https://www.youtube.com/watch?v=xvkuNF_8Coc" target="_blank" rel="noopener">Como abrir um programa do CodePen no VSCode</a>
 
