@@ -17,7 +17,9 @@
 - <a href="https://codepen.io/imersao-dev/pen/51db666e8bab142fd0e4f48e535581c7" target="_blank" rel="noopener">Codepen com o código inicial</a>
 - <a href="https://www.imdb.com/" target="_blank" rel="noopener">IMDb para pesquisar as imagens dos filmes</a>
 - <a href="https://codepen.io/imersao-dev/pen/BapaBPO" target="_blank" rel="noopener">Repositório do código final da aula 4</a>
-
+- <a href="https://codepen.io/" target="_blank" rel="noopener">Codepen - editor de código online</a>
+- <a href="https://www.alura.com.br/artigos/html-css-e-js-definicoes">HTML, CSS e JavaScript, quais as diferenças</a>
+- <a href="https://codepen.io/imersao-dev/pen/KKaKKKK" target="_blank" rel="noopener">Repositório do código final da aula 5</a>
 
 #### Links citados nas aulas
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
@@ -25,6 +27,8 @@
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
 - <a href="https://pt.stackoverflow.com/questions/7/qual-a-diferen%C3%A7a-entre-os-operadores-e-em-javascript" target="_blank" rel="noopener">Um igual, dois iguais e três iguais? QUE???</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array" target="_blank" rel="noopener">Documentação da MDN sobre arrays</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat" target="_blank" rel="noopener">Mais sobre a função parseFloat</a>
 
 #### Conteúdos extras:
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">JavaScript segundo a documentação</a>
@@ -37,6 +41,10 @@
 - <a>Iterações são parte importante do estudo de lógica de programação e nem sempre a gente pega de primeira. Por isso, produzimos um <a href="https://www.youtube.com/watch?v=c8Zac9hWbs8" target="_blank" rel="noopener">vídeo extra</a> para você dar um gás nesse tema e tirar suas dúvidas. Ou ter dúvidas novas, o que também é bom!</a>
 - <a href="https://www.youtube.com/watch?v=DsFb24TgJ0c" target="_blank" rel="noopener">Refazendo a aula 1 com outra linguagem de programação</a>
 - <a href="https://www.youtube.com/watch?v=xvkuNF_8Coc" target="_blank" rel="noopener">Como abrir um programa do CodePen no VSCode</a>
+- <a href="https://www.youtube.com/watch?v=xvkuNF_8Coc" target="_blank" rel="noopener">Usando o VSCode</a>
+- <a href="https://www.youtube.com/watch?v=DsFb24TgJ0c" target="_blank" rel="noopener">Primeira aula da imersão com Python</a>
+- <a href="https://hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/">Primeiros passos na programação</a>
+- <a href="https://www.youtube.com/watch?v=3oSIqIqzN3M" target="_blank" rel="noopener">5 minutos de HTML</a>
 
 #### Como compartilhar seu CodePen:
 - Clique na opção Settings no canto superior direito;
@@ -143,6 +151,21 @@ function listarFilmesNaTela(filme) {
 - Substituir o pôster de cada filme pelo trailer. Dica: pesquisem pela opção embed no menu de compartilhamento do YouTube;
 - Estudar o innerHTML e a função que está criando a lista de pôsters. Como o código funciona para adicionar filmes sem utilizar array?
 - Criar a função validaFilme() que faça somente a verificação que está sendo feita no if.
+
+#### AULA 6: TABELA DE CLASSIFICAÇÃO E OBJETOS NO JAVASCRIPT - :heavy_check_mark:
+
+#### Conteúdo detalhado dessa aula
+- Remover o código estático do HTML;
+- Criar um objeto no Javascript para cada jogador;
+- Criar uma função que receba um objeto como parâmetro para calcular os pontos;
+- Exibir o objeto na página HTML;
+- Criar uma função para adicionar vitória;
+- Criar uma função para adicionar empate e outra para adicionar derrota;
+- Recalcular os pontos quando vitória ou empate for adicionado.
+
+#### Desafios dessa aula!
+- Incluir uma imagem na linha de cada jogador;
+- Um botão que adiciona um novo jogador na tabela de classificação.
 
 ## 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
