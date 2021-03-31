@@ -20,6 +20,7 @@
 - <a href="https://codepen.io/" target="_blank" rel="noopener">Codepen - editor de código online</a>
 - <a href="https://www.alura.com.br/artigos/html-css-e-js-definicoes">HTML, CSS e JavaScript, quais as diferenças</a>
 - <a href="https://codepen.io/imersao-dev/pen/KKaKKKK" target="_blank" rel="noopener">Repositório do código final da aula 5</a>
+- <a href="https://codepen.io/" target="_blank" rel="noopener">Codepen - editor de código online</a>
 
 #### Links citados nas aulas
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
@@ -45,6 +46,7 @@
 - <a href="https://www.youtube.com/watch?v=DsFb24TgJ0c" target="_blank" rel="noopener">Primeira aula da imersão com Python</a>
 - <a href="https://hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/">Primeiros passos na programação</a>
 - <a href="https://www.youtube.com/watch?v=3oSIqIqzN3M" target="_blank" rel="noopener">5 minutos de HTML</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">JavaScript segundo a documentação</a>
 
 #### Como compartilhar seu CodePen:
 - Clique na opção Settings no canto superior direito;
@@ -62,7 +64,9 @@ Nesta primeira aula da Imersão Dev, vamos criar um conversor de moedas, que con
 2° Aula: https://codepen.io/imersao-dev/pen/fe7e8d7e1820a0883499c1b85d0ef8f3
 3° Aula: https://codepen.io/imersao-dev/pen/c9bc2321ec180ad7483501ad8a1e7d3d
 4° Aula: https://codepen.io/imersao-dev/pen/XWpWrYm
-5° Aula:  https://codepen.io/imersao-dev/pen/XWpWrod
+5° Aula: https://codepen.io/imersao-dev/pen/XWpWrod
+6° Aula: https://codepen.io/imersao-dev/pen/yLgLLNY
+7° Aula: https://codepen.io/imersao-dev/pen/WNRNNOb
 ````
 
 Não se esqueça de fazer o fork desse projeto para a sua conta, e de marcar a hashtag da #imersaodev e #alura.
@@ -166,6 +170,19 @@ function listarFilmesNaTela(filme) {
 #### Desafios dessa aula!
 - Incluir uma imagem na linha de cada jogador;
 - Um botão que adiciona um novo jogador na tabela de classificação.
+
+#### AULA 7: TTRUNFO E LÓGICA DO JOGO - :heavy_check_mark:
+
+#### Conteúdo detalhado dessa aula
+- Criar as cartas do jogo e definir seus atributos;
+- Desenvolver uma função para sortear uma carta para o jogador e outra para a máquina;
+- Exibindo os atributos das cartas na tela para o jogador;
+- Obter o atribudo escolhido pelo jogador e comparar com a carta da máquina;
+Comparar o atributo de ambas as cartas e definir um vencedor.
+
+#### Desafios dessa aula!
+- Exibir a carta do jogador e da máquina na tela;
+- Adicionar uma imagem em cada carta.
 
 ## 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
