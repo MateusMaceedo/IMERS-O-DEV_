@@ -20,7 +20,8 @@
 - <a href="https://codepen.io/" target="_blank" rel="noopener">Codepen - editor de código online</a>
 - <a href="https://www.alura.com.br/artigos/html-css-e-js-definicoes">HTML, CSS e JavaScript, quais as diferenças</a>
 - <a href="https://codepen.io/imersao-dev/pen/KKaKKKK" target="_blank" rel="noopener">Repositório do código final da aula 5</a>
-- <a href="https://codepen.io/" target="_blank" rel="noopener">Codepen - editor de código online</a>
+- <a href="https://www.youtube.com/watch?v=xvkuNF_8Coc" target="_blank" rel="noopener">Usando o Vscode</a>
+- <a href="https://www.youtube.com/watch?v=DsFb24TgJ0c" target="_blank" rel="noopener">Priimeira aula da iimersão com Python</a>
 
 #### Links citados nas aulas
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
@@ -30,6 +31,7 @@
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array" target="_blank" rel="noopener">Documentação da MDN sobre arrays</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat" target="_blank" rel="noopener">Mais sobre a função parseFloat</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
 
 #### Conteúdos extras:
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">JavaScript segundo a documentação</a>
@@ -47,6 +49,25 @@
 - <a href="https://hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/">Primeiros passos na programação</a>
 - <a href="https://www.youtube.com/watch?v=3oSIqIqzN3M" target="_blank" rel="noopener">5 minutos de HTML</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">JavaScript segundo a documentação</a>
+- Manipular o CSS pelo JS não é tarefa fácil. Pensando nisso, vamos disponibiliar o código da função exibiCartaJogador():
+
+````
+function exibeCartaJogador() {
+    var divCartaJogador = document.getElementById("carta-jogador")
+    var moldura = '<img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/card-super-trunfo-transparent.png" style=" width: inherit; height: inherit; position: absolute;">';
+    divCartaJogador.style.backgroundImage = `url(${cartaJogador.imagem})`
+    var nome = `<p class="carta-subtitle">${cartaJogador.nome}</p>`
+    var opcoesTexto = ""
+
+    for (var atributo in cartaJogador.atributos) {
+        opcoesTexto += "<input type='radio' name='atributo' value='" + atributo + "'>" + atributo + " " + cartaJogador.atributos[atributo] + "<br>"
+    }
+
+    var html = "<div id='opcoes' class='carta-status'>"
+
+    divCartaJogador.innerHTML = moldura + nome + html + opcoesTexto + '</div>'
+}
+````
 
 #### Como compartilhar seu CodePen:
 - Clique na opção Settings no canto superior direito;
@@ -183,6 +204,19 @@ Comparar o atributo de ambas as cartas e definir um vencedor.
 #### Desafios dessa aula!
 - Exibir a carta do jogador e da máquina na tela;
 - Adicionar uma imagem em cada carta.
+
+#### AULA 8: TRUNFO, IMAGENS, MANIPULAÇÃO DO HTML E CSS - :heavy_check_mark:
+
+#### Conteúdo detalhado dessa aula
+- Adicionando o campo imagem nos objetos com o caminho da imagem;
+- Criar uma função que exibe a carta do jogador após o sorteio das cartas;
+- Adicionar a moldura da carta;
+- Escrever o resultado na tela após o duelo das cartas informando se o jogador venceu ou perdeu;
+- Criar uma função que exibe a carta da máquina;
+- Exibir os atributos e pontos da carta da máquina.
+
+#### Desafios dessa aula!
+- Criar novas cartas com imagens e atributos diferentes.
 
 ## 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
