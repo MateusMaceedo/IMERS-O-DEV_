@@ -88,6 +88,7 @@ Nesta primeira aula da Imersão Dev, vamos criar um conversor de moedas, que con
 5° Aula: https://codepen.io/imersao-dev/pen/XWpWrod
 6° Aula: https://codepen.io/imersao-dev/pen/yLgLLNY
 7° Aula: https://codepen.io/imersao-dev/pen/WNRNNOb
+8° Aula: https://codepen.io/imersao-dev/pen/JjEjjZv
 ````
 
 Não se esqueça de fazer o fork desse projeto para a sua conta, e de marcar a hashtag da #imersaodev e #alura.
