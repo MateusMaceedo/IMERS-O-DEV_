@@ -32,6 +32,7 @@
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat" target="_blank" rel="noopener">Mais sobre a função parseFloat</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
+-
 
 #### Conteúdos extras:
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">JavaScript segundo a documentação</a>
@@ -50,6 +51,8 @@
 - <a href="https://www.youtube.com/watch?v=3oSIqIqzN3M" target="_blank" rel="noopener">5 minutos de HTML</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">JavaScript segundo a documentação</a>
 - Manipular o CSS pelo JS não é tarefa fácil. Pensando nisso, vamos disponibiliar o código da função exibiCartaJogador():
+- <a href="https://www.youtube.com/watch?v=xvkuNF_8Coc" target="_blank" rel="noopener">Como abrir um projeto do CodePen no VSCode</a>
+-
 
 ````
 function exibeCartaJogador() {
@@ -89,6 +92,7 @@ Nesta primeira aula da Imersão Dev, vamos criar um conversor de moedas, que con
 6° Aula: https://codepen.io/imersao-dev/pen/yLgLLNY
 7° Aula: https://codepen.io/imersao-dev/pen/WNRNNOb
 8° Aula: https://codepen.io/imersao-dev/pen/JjEjjZv
+9° Aula: https://codepen.io/imersao-dev/pen/eYgYYxG
 ````
 
 Não se esqueça de fazer o fork desse projeto para a sua conta, e de marcar a hashtag da #imersaodev e #alura.
@@ -218,6 +222,20 @@ Comparar o atributo de ambas as cartas e definir um vencedor.
 
 #### Desafios dessa aula!
 - Criar novas cartas com imagens e atributos diferentes.
+
+#### AULA 9: TRUNFO E LÓGICA DE RODADAS COM JAVASCRIPT - :heavy_check_mark:
+
+#### Conteúdo detalhado dessa aula
+- Adicionamos mais cartas no jogo;
+- Criamos um placar com pontos do jogador e da máquina;
+- Desenvolvemos uma função que atualiza o placar do jogo;
+- Incluímos uma lógica para remover as cartas usadas do jogo a cada rodada;
+- Alteramos a forma de sortear as cartas do jogo;
+- Manipulamos os botões do jogo alterando a visibilidade.
+
+#### Desafios dessa aula!
+- Criar um programa que converta libra em dolar, ou graus graus Celsius para Fahrenheit;
+- Exibir o resultado da conversão na tela, no lugar da função alert.
 
 ## 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
