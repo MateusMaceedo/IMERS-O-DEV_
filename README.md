@@ -22,6 +22,9 @@
 - <a href="https://codepen.io/imersao-dev/pen/KKaKKKK" target="_blank" rel="noopener">Repositório do código final da aula 5</a>
 - <a href="https://www.youtube.com/watch?v=xvkuNF_8Coc" target="_blank" rel="noopener">Usando o Vscode</a>
 - <a href="https://www.youtube.com/watch?v=DsFb24TgJ0c" target="_blank" rel="noopener">Priimeira aula da iimersão com Python</a>
+- <a href="https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA" target="_blank" rel="noopener">Canal do Mario Souto no Youtube</a>
+- <a href="https://www.youtube.com/user/RafaellaBallerini" target="_blank" rel="noopener">Canal da  Rafa no Youtube</a>
+- <a href="https://www.youtube.com/channel/UCNPYYMBKHgLjNpYpS0EWycw" target="_blank" rel="noopener">Canal do  Gui Lima no Youtube</a>
 
 #### Links citados nas aulas
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
@@ -32,7 +35,8 @@
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat" target="_blank" rel="noopener">Mais sobre a função parseFloat</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis" target="_blank" rel="noopener">Mais sobre variáveis</a>
--
+- <a href="https://html-css-js.com/css/generator/box-shadow/" target="_blank" rel="noopener">Gerador de Box Shadow</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference" target="_blank" rel="noopener">Referências de CSS</a>
 
 #### Conteúdos extras:
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">JavaScript segundo a documentação</a>
@@ -52,7 +56,7 @@
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">JavaScript segundo a documentação</a>
 - Manipular o CSS pelo JS não é tarefa fácil. Pensando nisso, vamos disponibiliar o código da função exibiCartaJogador():
 - <a href="https://www.youtube.com/watch?v=xvkuNF_8Coc" target="_blank" rel="noopener">Como abrir um projeto do CodePen no VSCode</a>
--
+- <a href="https://www.youtube.com/playlist?list=PLTcmLKdIkOWkJY8LJXs1GDqBnxCGsExBO" target="_blank" rel="noopener">Dicas de Programação</a>
 
 ````
 function exibeCartaJogador() {
@@ -236,6 +240,26 @@ Comparar o atributo de ambas as cartas e definir um vencedor.
 #### Desafios dessa aula!
 - Criar um programa que converta libra em dolar, ou graus graus Celsius para Fahrenheit;
 - Exibir o resultado da conversão na tela, no lugar da função alert.
+
+#### AULA 10: CERTIFICARD - :heavy_check_mark:
+
+#### Conteúdo detalhado dessa aula
+- Criamos abrimos um pen em branco;
+- Adicionamos o HTML para estruturar nossa página;
+- Estilizamos a página com CSS do zero.
+
+#### Desafios dessa aula!
+- Adicionar um link em cada linha para abrir o projeto no CodePen.
+
+#### Próximos passos
+- <a href="https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-" target="_blank" rel="noopener">Inteligência Artificial, Machine Learning, Data Science e Deep Learning</a>
+- <a href="https://www.youtube.com/watch?v=J4BVaXkwmM8" target="_blank" rel="noopener">Flutter</a>
+- <a href="https://www.youtube.com/playlist?list=PLhkO7OMKgT_oXQtrM2JjR-AzH0-v4kRzn" target="_blank" rel="noopener">Frontend ou Backend com a Rafa</a>
+- <a href="https://www.youtube.com/playlist?list=PLhkO7OMKgT_qEXMteR9O0M3DyKq1OvC_h" target="_blank" rel="noopener">Programação e Tecnologia</a>
+- <a href="https://www.youtube.com/playlist?list=PLhkO7OMKgT_p3VoB47VHdLGpYTzxYTv8R" target="_blank" rel="noopener">Frontend</a>
+- <a href="https://www.youtube.com/playlist?list=PLTcmLKdIkOWntJJVhd0etFmdN8bWXJif9" target="_blank" rel="noopener">Projetos para praticar JS</a>
+- <a href="https://www.youtube.com/playlist?list=PL-kOa62ayb1yb4WMWID2t9ohnGjXLr8Jy" target="_blank" rel="noopener">Sucesso é sorte ou esforço?</a>
+- <a href="https://www.youtube.com/playlist?list=PL-kOa62ayb1wQPeBChJ6KBILRLL2AHoZU" target="_blank" rel="noopener">Como estudar melhor?</a>
 
 ## 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
